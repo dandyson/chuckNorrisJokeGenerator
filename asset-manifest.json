@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/chuckNorrisJokeGenerator/static/css/main.54d46870.chunk.css",
-    "main.js": "/chuckNorrisJokeGenerator/static/js/main.4d65c311.chunk.js",
-    "main.js.map": "/chuckNorrisJokeGenerator/static/js/main.4d65c311.chunk.js.map",
+    "main.css": "/chuckNorrisJokeGenerator/static/css/main.a436bc9b.chunk.css",
+    "main.js": "/chuckNorrisJokeGenerator/static/js/main.cd31b169.chunk.js",
+    "main.js.map": "/chuckNorrisJokeGenerator/static/js/main.cd31b169.chunk.js.map",
     "runtime-main.js": "/chuckNorrisJokeGenerator/static/js/runtime-main.3f40414e.js",
     "runtime-main.js.map": "/chuckNorrisJokeGenerator/static/js/runtime-main.3f40414e.js.map",
-    "static/js/2.5928d77e.chunk.js": "/chuckNorrisJokeGenerator/static/js/2.5928d77e.chunk.js",
-    "static/js/2.5928d77e.chunk.js.map": "/chuckNorrisJokeGenerator/static/js/2.5928d77e.chunk.js.map",
+    "static/css/2.ab8a0683.chunk.css": "/chuckNorrisJokeGenerator/static/css/2.ab8a0683.chunk.css",
+    "static/js/2.e203565a.chunk.js": "/chuckNorrisJokeGenerator/static/js/2.e203565a.chunk.js",
+    "static/js/2.e203565a.chunk.js.map": "/chuckNorrisJokeGenerator/static/js/2.e203565a.chunk.js.map",
     "index.html": "/chuckNorrisJokeGenerator/index.html",
-    "precache-manifest.28f1d313ed22dcb8092d4a113f52a60f.js": "/chuckNorrisJokeGenerator/precache-manifest.28f1d313ed22dcb8092d4a113f52a60f.js",
+    "precache-manifest.10e20fcb4bb0af8d9bc6ad6d9871efbd.js": "/chuckNorrisJokeGenerator/precache-manifest.10e20fcb4bb0af8d9bc6ad6d9871efbd.js",
     "service-worker.js": "/chuckNorrisJokeGenerator/service-worker.js",
-    "static/css/main.54d46870.chunk.css.map": "/chuckNorrisJokeGenerator/static/css/main.54d46870.chunk.css.map",
-    "static/js/2.5928d77e.chunk.js.LICENSE.txt": "/chuckNorrisJokeGenerator/static/js/2.5928d77e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/chuckNorrisJokeGenerator/static/media/logo.5d5d9eef.svg"
+    "static/css/2.ab8a0683.chunk.css.map": "/chuckNorrisJokeGenerator/static/css/2.ab8a0683.chunk.css.map",
+    "static/css/main.a436bc9b.chunk.css.map": "/chuckNorrisJokeGenerator/static/css/main.a436bc9b.chunk.css.map",
+    "static/js/2.e203565a.chunk.js.LICENSE.txt": "/chuckNorrisJokeGenerator/static/js/2.e203565a.chunk.js.LICENSE.txt",
+    "static/media/oval.svg": "/chuckNorrisJokeGenerator/static/media/oval.1af174e1.svg",
+    "static/media/App.css": "/chuckNorrisJokeGenerator/static/media/utah-161531.dd5bfa33.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3f40414e.js",
-    "static/js/2.5928d77e.chunk.js",
-    "static/css/main.54d46870.chunk.css",
-    "static/js/main.4d65c311.chunk.js"
+    "static/css/2.ab8a0683.chunk.css",
+    "static/js/2.e203565a.chunk.js",
+    "static/css/main.a436bc9b.chunk.css",
+    "static/js/main.cd31b169.chunk.js"
   ]
 }
